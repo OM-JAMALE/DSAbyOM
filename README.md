@@ -43,5 +43,6 @@ dsa practice questions
 | [0175-combine-two-tables](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0577-employee-bonus](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0577-employee-bonus) |
+| [0620-not-boring-movies](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0620-not-boring-movies) |
 | [1890-the-latest-login-in-2020](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
