@@ -37,4 +37,8 @@ dsa practice questions
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
