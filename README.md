@@ -7,6 +7,7 @@ dsa practice questions
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0485-max-consecutive-ones](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0485-max-consecutive-ones) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1929-concatenation-of-array) |
