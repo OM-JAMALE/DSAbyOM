@@ -50,6 +50,7 @@ dsa practice questions
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0620-not-boring-movies) |
+| [1193-monthly-transactions-i](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1193-monthly-transactions-i) |
 | [1890-the-latest-login-in-2020](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1890-the-latest-login-in-2020) |
 ## Two Pointers
 |  |
