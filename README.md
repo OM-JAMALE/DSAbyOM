@@ -8,6 +8,7 @@ dsa practice questions
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0645-set-mismatch) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1929-concatenation-of-array) |
@@ -33,6 +34,7 @@ dsa practice questions
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0645-set-mismatch) |
 | [2747-count-zero-request-servers](https://github.com/OM-JAMALE/DSAbyOM/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
@@ -68,10 +70,15 @@ dsa practice questions
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0645-set-mismatch) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/OM-JAMALE/DSAbyOM/tree/master/2747-count-zero-request-servers) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
