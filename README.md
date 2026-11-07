@@ -12,6 +12,7 @@ dsa practice questions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1470-shuffle-the-array) |
+| [1882-process-tasks-using-servers](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1929-concatenation-of-array) |
 | [2747-count-zero-request-servers](https://github.com/OM-JAMALE/DSAbyOM/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -47,6 +48,7 @@ dsa practice questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Database
 |  |
